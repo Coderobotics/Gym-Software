@@ -14,5 +14,6 @@ Gym Management Software Comprises following modules which gives the Gym / Fitnes
 <li>Employee</li>
 <li>Attendance</li>
 <li>Reports</li>
+</ul>
 <b>More details and download link:</b><br>
 <b>https://www.aspscriptsonline.com/product/gym-software/</b>
